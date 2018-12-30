@@ -16,5 +16,5 @@ That debug code is written into file which has the name: *'cleaned_debug' + old_
 
 ## Dependencies
 - [Python 3.x](https://python.org)
-- [argparse](https://docs.python.org/3/library/argparse.html) library for Python 3.x
+- [argparse](https://docs.python.org/3/library/argparse.html) library for Python 3.x - Used to make nice CLI
 
