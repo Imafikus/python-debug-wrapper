@@ -14,6 +14,12 @@ Library is just *debug_wrapper.py* file, and for now it only has 2 functions:
 That debug code is written into file which has the name: *'cleaned_debug' + old_file_name*.  
 **Your old file will be intact!** This is done in case something unexpected happens or if you just want to hold on to the debug version a little bit longer. 
 
+You run program with:
+
+`python3 debug_wrapper.py path_to_file_which_needs_to_be_cleaned`
+
+
+
 ## Dependencies
 - [Python 3.x](https://python.org)
 - [argparse](https://docs.python.org/3/library/argparse.html) library for Python 3.x - Used to make nice CLI
